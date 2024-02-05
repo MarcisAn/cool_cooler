@@ -4,7 +4,7 @@ A Work In Progress library for reading/writing Cool data files.
 
 Current functionality includes listing datasets present in a file.
 
-Requires HDF5 library present. Installable on linux with `sudo apt-get install libhdf5-serial-dev`
+Requires HDF5 library. Installable on linux or WSL with `sudo apt-get install libhdf5-serial-dev`
 
 ## Example:
 
